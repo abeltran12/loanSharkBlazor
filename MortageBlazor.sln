@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C2F4FB5E-61FB-40F2-A9D4-2268907F7C74}") = "MortageBlazor", "MortageBlazor.csproj", "{32C71EAD-71B2-449F-BCCD-5B0FFA04366C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C71EAD-71B2-449F-BCCD-5B0FFA04366C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C71EAD-71B2-449F-BCCD-5B0FFA04366C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C71EAD-71B2-449F-BCCD-5B0FFA04366C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C71EAD-71B2-449F-BCCD-5B0FFA04366C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18DBE7A-1C0A-4ABC-85F7-9D49CAB98D86}
+	EndGlobalSection
+EndGlobal
